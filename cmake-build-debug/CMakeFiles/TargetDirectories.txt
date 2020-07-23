@@ -1,0 +1,3 @@
+F:/project/inctry-server/cmake-build-debug/CMakeFiles/inctry_server.dir
+F:/project/inctry-server/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/project/inctry-server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
